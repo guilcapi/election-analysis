@@ -24,12 +24,12 @@ The text file image shown here summarizes the data provided:
 
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
--The county results were:
+- The county results were:
     - Jefferson received 10.5% of the vote and 38,855 number of votes.
     - Denver received 82.8% of the vote and 306,055 number of votes.
     - Arapahoe received 6.7% of the vote and 24,801 number of votes
--The county with the largest number of votes was Denver.
--The candidate results were:
+- The county with the largest number of votes was Denver.
+- The candidate results were:
     - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
     - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
     - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
